@@ -1,2 +1,2 @@
-# little-projects-vue
-Petit projet en VueJs
+# Petit Projets en VueJs
+
