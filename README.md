@@ -1,2 +1,2 @@
-# login-page-vuejs
-Petit projet de login page en VueJs
+# little-projects-vue
+Petit projet en VueJs
