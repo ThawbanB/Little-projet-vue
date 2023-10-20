@@ -1,0 +1,12 @@
+@import './base.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Roboto:wght@300;900&display=swap');
+
+body {
+  background-image: url('./img/flat-mountains.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-family: 'Abel', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
